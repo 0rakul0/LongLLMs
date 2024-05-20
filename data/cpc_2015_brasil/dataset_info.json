@@ -1,0 +1,32 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "livro": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "capitulo": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "titulo": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "secao": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subsecao": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "artigo": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
